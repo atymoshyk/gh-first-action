@@ -1,5 +1,5 @@
 name: First Workflow
-on: workflow_dispath # Ability to start workflow manually
+on: workflow_dispatch # Ability to start workflow manually
 jobs:
   first-job:
     runs-on: ubuntu-latest
